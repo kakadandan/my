@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>1.png</file>
+        <file>C:/Users/hasee/桌面/timg (1).jpg</file>
+        <file>C:/Users/hasee/桌面/111.png</file>
+        <file>resource/1.png</file>
+        <file>resource/111.png</file>
+        <file>resource/589c38401867b.jpg</file>
+        <file>resource/timg (1).jpg</file>
+        <file>resource/timg.jpg</file>
+        <file>resource/按钮1.png</file>
+        <file>resource/按钮2.png</file>
+        <file>resource/按钮3.png</file>
+        <file>resource/按钮4.png</file>
+        <file>resource/按钮5.png</file>
+    </qresource>
+</RCC>
